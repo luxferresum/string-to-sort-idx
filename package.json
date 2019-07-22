@@ -1,0 +1,24 @@
+{
+  "name": "string-to-sort-idx",
+  "version": "1.0.0",
+  "description": "Simple snipped to convert a string to a floating point number for sorting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luxferresum/string-to-sort-idx.git"
+  },
+  "homepage": "https://github.com/luxferresum/string-to-sort-idx",
+  "keywords": [
+    "sort",
+    "index"
+  ],
+  "author": "Lukas Kohler",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^6.1.4"
+  }
+}
